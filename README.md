@@ -34,7 +34,8 @@ html5
 javascript
 mysql
 python
-
+#Drive link Provided
+Due to the large size of filles providing the drive link https://drive.google.com/file/d/15ir25MfJmwqCwdLIkUFy7Tj1RIL_5OKm/view?usp=drivesdk you can unzip and access
 #Installation 
 git clone https://github.com/harsh12345-beep/CryptoTech
 
@@ -65,4 +66,5 @@ Id:- dell
 Password:- ASDF@123#
 
 for the superuser of the django
+
 
