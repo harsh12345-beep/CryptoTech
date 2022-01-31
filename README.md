@@ -42,7 +42,7 @@ python
 
 git clone https://github.com/harsh12345-beep/CryptoTech
 
-# After cloening the repo run the command :
+# After cloning the repo run the command :
 ```bash
 pip install Django
 ```
